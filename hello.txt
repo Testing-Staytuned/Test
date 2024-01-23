@@ -1,5 +1,3 @@
 hi
 hello
-hi
-hello
-2
+final
